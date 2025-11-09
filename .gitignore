@@ -1,0 +1,24 @@
+# Xcode
+#
+# File e cartelle specifiche dell'utente e di stato
+*.xcuserdata/
+*.xcbkptlist
+*.xcuserstate
+project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+*.xcodeproj/project.xcworkspace/xcshareddata/
+
+# Risultati della compilazione (Build)
+build/
+Build/
+DerivedData/
+*.o
+*.swiftmodule
+*.swiftdoc
+
+# File di sistema macOS
+.DS_Store
+
+# Swift Package Manager
+.build/
+Packages/
+*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
