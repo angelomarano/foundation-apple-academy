@@ -1,4 +1,4 @@
-# 🌟 Memento: Your Life. Pinned.
+# 📌 Memento: Your Life. Pinned.
 
 This application was developed by our team during the **Foundation Program at the Apple Developer Academy**.
 
